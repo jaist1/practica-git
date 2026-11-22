@@ -8,3 +8,11 @@ Esto es una práctica de fundamentos de programación para controlar versiones c
 
 Voy a añadir un programa sencillo, un sistema de vida.
 
+
+
+El programa funciona de la siguiente manera:
+
+
+
+El contador de vida empieza con 100 puntos de vida, el usuario introduce cuanto daño recibe y el programa calcula y muestra la vida restante.
+
